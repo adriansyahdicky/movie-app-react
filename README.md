@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/adriansyahdicky/movie-app-react/assets/54537198/a1704328-7d85-4d12-bae9-3531114f3dc6)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
